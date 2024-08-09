@@ -1,6 +1,6 @@
 [package]
 name = "bevy_pause"
-version = "0.0.0"
+version = "0.1.0"
 edition = "2021"
 description = "A very simple pause plugin for Bevy"
 homepage = "https://github.com/CleanCut/bevy_pause"
