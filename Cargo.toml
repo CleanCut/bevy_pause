@@ -1,0 +1,15 @@
+[package]
+name = "bevy_pause"
+version = "0.0.0"
+edition = "2021"
+description = "A very simple pause plugin for Bevy"
+homepage = "https://github.com/CleanCut/bevy_pause"
+repository = "https://github.com/CleanCut/bevy_pause"
+readme = "README.md"
+keywords = [ "game", "score", "graphics", "plugin", "bevy" ]
+categories = [ "game-development" ]
+license = "MIT OR Apache-2.0"
+
+
+[dependencies]
+bevy = "0.14.1"
